@@ -1,9 +1,9 @@
 const siteMetaInfo = {
   // Used on Header
-  title: "Mondongo",
+  title: "Meguru Kiss's Page",
   description: "A tech enthusiast & self taught learner. Love to talk the way of tech.",
   // Used on Footer
-  slogan: "Let's start coding",
+  slogan: "Nice to meet you!",
   // System Settings
   language: "en-us",
   theme: "system", // system, dark or light

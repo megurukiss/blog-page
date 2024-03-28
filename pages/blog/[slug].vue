@@ -17,13 +17,13 @@
         <div class="text-slate-900 dark:text-slate-200">
           {{ author.name }}
         </div>
-        <a
+        <!-- <a
           target="_blank"
           :href="`https://twitter.com/${author.socials.twitter}`"
           class="text-sky-500 hover:text-sky-600 dark:text-sky-400"
         >
           @{{ author.socials.twitter }}
-        </a>
+        </a> -->
       </div>
     </div>
     <img

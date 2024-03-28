@@ -44,7 +44,7 @@ useSeoMeta({
     {
       hid: "description",
       name: "description",
-      content: "Some of Projects developed by Solaiman",
+      content: "Some of Projects developed by me",
     },
   ],
   link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],

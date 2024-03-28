@@ -1,7 +1,9 @@
 ---
-title: 👋 Hola , Good Day !
+title: 👋 Hi, There!
 page: intro
 draft: false
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+I'm a student at UCSD, who aims to become a software engineer. I'm passionate about learning new technologies and building projects. I'm recently learning backend development with Spring boot. I'm also learning cloud computing and DevOps. I'm excited to share my journey with you.<br>
+<br>
+I love video games. I'm a huge fan of Japanese RPG games. My favorate games are Shin Megami Tensei and Monster hunter series. I also love to watch anime and read manga. I'm learning Japanese and planning to visit Japan in the future.
